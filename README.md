@@ -1,0 +1,4 @@
+- 👋 Hi I'm @keybron
+- 🌱 I’m currently learning Computer Engineer
+- 🤔 I’m looking for help with cibersecurity and IA 
+- 👀 I’m interested in all programming languages
